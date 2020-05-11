@@ -21,6 +21,6 @@ Implementation of BitwiseCalculator as a chrome plugin
 ### New version may be on the way with new functionality like :
       * Better UI and original Icon.
       * Binary,Octal and Hexadecimal support.
-      * Bit-by-Bit visualization show that it may help you reach your logic soon.
+      * Bit-by-Bit visualization so that it may help you reach your logic soon.
       * ScreenShot feature that may help you take the picture of your new A/C(correct answer).
       and many more..
